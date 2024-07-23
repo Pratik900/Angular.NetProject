@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\data\\clientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\data\\clientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\migrations\\20240710204429_first table client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\migrations\\20240710204429_first table client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\migrations\\clientdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\migrations\\clientdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\angular.netproject\\api.net\\angularclient.api\\angularclient.api\\angularclient.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{34DEBE11-9425-4A06-81F4-0F044ADD0328}|AngularClient.API\\AngularClient.API.csproj|solutionrelative:angularclient.api\\angularclient.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240710204429_First table client.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Migrations\\20240710204429_First table client.cs",
+              "RelativeDocumentMoniker": "AngularClient.API\\Migrations\\20240710204429_First table client.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Migrations\\20240710204429_First table client.cs",
+              "RelativeToolTip": "AngularClient.API\\Migrations\\20240710204429_First table client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:24:32.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Migrations\\ClientDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AngularClient.API\\Migrations\\ClientDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Migrations\\ClientDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AngularClient.API\\Migrations\\ClientDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:24:30.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AngularClient.API.http",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\AngularClient.API.http",
+              "RelativeDocumentMoniker": "AngularClient.API\\AngularClient.API.http",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\AngularClient.API.http",
+              "RelativeToolTip": "AngularClient.API\\AngularClient.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-22T15:19:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularClient.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\appsettings.json",
+              "RelativeToolTip": "AngularClient.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T14:53:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Program.cs",
+              "RelativeDocumentMoniker": "AngularClient.API\\Program.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Program.cs",
+              "RelativeToolTip": "AngularClient.API\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:53:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "AngularClient.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "AngularClient.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:01:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Data\\ClientDbContext.cs",
+              "RelativeDocumentMoniker": "AngularClient.API\\Data\\ClientDbContext.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\Angular.NetProject\\Api.Net\\AngularClient.API\\AngularClient.API\\Data\\ClientDbContext.cs",
+              "RelativeToolTip": "AngularClient.API\\Data\\ClientDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:34:21.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
