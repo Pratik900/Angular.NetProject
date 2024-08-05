@@ -32,5 +32,17 @@ namespace AngularClient.API.Controllers
             await _ClientDbContext.SaveChangesAsync();
             return Ok(clientsrequest);
         }
+
+        [HttpGet]
+        [Route("{Id:Guid}")]
+        public async Task<IActionResult> GetClientsById([FromRoute] Guid Id)
+        {
+            var clinetData = await _ClientDbContext.Clients.FirstOrDefaultAsync(x => x.Id == Id);
+            if(clinetData == null)
+            {
+                return NotFound();
+            }
+            return Ok(clinetData);
+        }
     }
 }

@@ -21,4 +21,8 @@ export class ClientsService {
     return this.http.post<Users>(this.baseApiUrl + '/api/clients',
       addClientRequest);
   }
+
+  getClient(Id:string): Observable<Users>{
+    return this.http.get<Users>(this.baseApiUrl + '/api/clients/' + Id);
+  }
 }

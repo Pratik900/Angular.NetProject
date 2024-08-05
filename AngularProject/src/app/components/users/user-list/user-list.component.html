@@ -23,7 +23,9 @@
             <td> {{ u.contact }} </td>
             <td> {{ u.working  == 1 ? "Yes" : "No"}} </td>
             <td> 
-                <button type="button" class="btn btn-primary me-2">Update</button> 
+                <button type="button" class="btn btn-primary me-2"  routerLink="edituser/{{ u.id }}" >Update</button> 
+                <!-- <a [routerLink]="['/users', 'adduser', u.id]">Edit User</a> -->
+
                 <button type="button" class="btn btn-danger">Delete</button>
             </td>
           </tr>
